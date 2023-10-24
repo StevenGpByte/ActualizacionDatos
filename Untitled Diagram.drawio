@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T15:52:03.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Bv6898P-klfUH2h6tZax" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T15:58:01.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="No2pUFaDZ3ulnMgcfnzC" version="22.0.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="3590" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2911" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,23 +13,19 @@
         <mxCell id="avdBAuHFWkykyo0Ebd1_-23" value="Api-gateway-server" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
           <mxGeometry x="-245" y="-600" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-H6l8ciazb51byIZADGl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avdBAuHFWkykyo0Ebd1_-24" target="-H6l8ciazb51byIZADGl-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="570" y="-565" />
-              <mxPoint x="570" y="-565" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avdBAuHFWkykyo0Ebd1_-24" target="-H6l8ciazb51byIZADGl-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avdBAuHFWkykyo0Ebd1_-24" target="-H6l8ciazb51byIZADGl-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="-425" />
+              <mxPoint x="530" y="-565" />
+              <mxPoint x="530" y="-565" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-H6l8ciazb51byIZADGl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avdBAuHFWkykyo0Ebd1_-24" target="-H6l8ciazb51byIZADGl-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avdBAuHFWkykyo0Ebd1_-24" value="security-profile-service" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="-600" width="180" height="70" as="geometry" />
@@ -38,25 +34,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-33" value="AS400" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="620" y="-600" width="170" height="70" as="geometry" />
+          <mxGeometry x="220" y="-360" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-35" value="&lt;br&gt;notificactions-service" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="220" y="-800" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-H6l8ciazb51byIZADGl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-H6l8ciazb51byIZADGl-39" target="-H6l8ciazb51byIZADGl-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-H6l8ciazb51byIZADGl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-H6l8ciazb51byIZADGl-39" target="-H6l8ciazb51byIZADGl-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="-325" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-39" value="Agreement-service" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
           <mxGeometry x="-245" y="-360" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-H6l8ciazb51byIZADGl-41" value="&lt;br&gt;AS-400" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="30" y="-360" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-43" value="app-customization-&lt;br&gt;service" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
           <mxGeometry x="-245" y="-840" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-H6l8ciazb51byIZADGl-53" value="&lt;br&gt;CRM" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="620" y="-460" width="170" height="70" as="geometry" />
+          <mxGeometry x="640" y="-590" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
